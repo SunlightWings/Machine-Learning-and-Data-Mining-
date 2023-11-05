@@ -1,0 +1,1 @@
+"44 sample images were taken, converted to a single grayscale channel, and PCA was carried out"
