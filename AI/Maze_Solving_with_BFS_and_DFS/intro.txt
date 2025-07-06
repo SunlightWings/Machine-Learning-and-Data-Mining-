@@ -1,0 +1,2 @@
+- Implementation of custom maze
+- Solving the maze with BFS and DFS Algorithm
