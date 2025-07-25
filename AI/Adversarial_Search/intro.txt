@@ -1,0 +1,1 @@
+About Minimax and Alpha-beta pruning
